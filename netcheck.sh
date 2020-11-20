@@ -14,7 +14,7 @@ VAR_SCRIPTNAME=`basename "$0"`
 VAR_SCRIPTLOC="/lib"
 VAR_CONNECTED=false
 VAR_LOGFILE=/mnt/sda1/netcheck.log
-VAR_CHECK_TIME=5
+VAR_CHECK_TIME=15
 VAR_HOST=http://www.google.com
 
 COLOR_RED="\033[31m"
